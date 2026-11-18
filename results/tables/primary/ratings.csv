@@ -1,0 +1,152 @@
+outcome,id,author,D1,D2,D3,D4,D5,Overall,Original_Overall
+CAIT,RPT004,"Kim KM et al., 2021",Low risk,Some concerns,Some concerns,Some concerns,Low risk,Some concerns,High risk
+CAIT,RPT005,"Cain MS et al., 2020",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+CAIT,RPT006,"Cruz-Diaz D et al., 2015",Low risk,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+CAIT,RPT008,"Shih YF et al., 2018",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+CAIT,RPT009,"Wright CJ et al., 2017",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,Some concerns
+CAIT,RPT024,"Lee E et al., 2019",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+CAIT,RPT031,"Kim KJ et al., 2014",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+CAIT,RPT036,"Ardakani MK et al., 2019",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+CAIT,RPT044,"Thanasootr KO et al., 2022",Low risk,Low risk,High risk,Some concerns,Low risk,High risk,High risk
+CAIT,RPT048,"Park HS et al., 2024",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+CAIT,RPT072,"Kim KM et al., 2022",Low risk,Some concerns,Low risk,Some concerns,Low risk,Some concerns,High risk
+CAIT,RPT076,"Yesilkir S et al., 2025",Low risk,Low risk,Some concerns,Low risk,Low risk,Some concerns,Some concerns
+CAIT,RPT091,"Parlakidis K et al., 2024",Some concerns,Low risk,Some concerns,Low risk,Low risk,Some concerns,High risk
+CAIT,RPT128,"Lapanantasin S et al., 2022",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+CAIT,RPT167,"Lao Y et al., 2025",Some concerns,Low risk,High risk,Low risk,Low risk,High risk,High risk
+CAIT,RPT169,"Pooryamanesh L et al., 2025",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,High risk
+CAIT,RPT171,"Pengsri K et al., 2024",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+CAIT,RPT190,"Liao L et al., 2025",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,High risk
+CAIT,RPT212,"Shinde VV et al., 2026",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+CAIT,RPT213,"Xu J et al., 2025",Some concerns,Low risk,High risk,Low risk,Low risk,High risk,High risk
+CAIT,RPT232,"Purzolfi M et al., 2026",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,High risk
+CAIT,RPT233,"Katsuya M et al., 2026",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,High risk
+CAIT,RPT283,"Ayeram et al., 2026",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,Some concerns
+CAIT,RPT284,"Takindi et al., 2024",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+CAIT,RPT315,"Rajkumar R et al., 2024",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+FAAM_ADL,RPT004,"Kim KM et al., 2021",Low risk,Some concerns,Some concerns,Some concerns,Low risk,Some concerns,High risk
+FAAM_ADL,RPT005,"Cain MS et al., 2020",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+FAAM_ADL,RPT009,"Wright CJ et al., 2017",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,Some concerns
+FAAM_ADL,RPT023,"Anguish B et al., 2018",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+FAAM_ADL,RPT032,"Hall EA et al., 2018",Some concerns,High risk,Low risk,Low risk,Low risk,High risk,High risk
+FAAM_ADL,RPT036,"Ardakani MK et al., 2019",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+FAAM_ADL,RPT040,"McKeon PO et al., 2016",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+FAAM_ADL,RPT042,"Seyedi M et al., 2021",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+FAAM_ADL,RPT043,"Smith BI et al., 2018",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+FAAM_ADL,RPT044,"Thanasootr KO et al., 2022",Low risk,Low risk,High risk,Low risk,Low risk,High risk,High risk
+FAAM_ADL,RPT072,"Kim KM et al., 2022",Low risk,Some concerns,Low risk,Low risk,Low risk,Some concerns,High risk
+FAAM_ADL,RPT076,"Yesilkir S et al., 2025",Low risk,Low risk,Some concerns,Low risk,Low risk,Some concerns,Some concerns
+FAAM_ADL,RPT141,"Suttmiller AMB et al., 2025",Some concerns,Low risk,Some concerns,Low risk,Low risk,Some concerns,High risk
+FAAM_ADL,RPT169,"Pooryamanesh L et al., 2025",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,High risk
+FAAM_ADL,RPT172,"Mohammadi Nia Samakosh H et al., 2022",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,High risk
+FAAM_ADL,RPT184,"Anguish BM, 2010",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,High risk
+FAAM_ADL,RPT199,"Turhan B et al., 2025",Low risk,Low risk,High risk,Low risk,Low risk,High risk,High risk
+FAAM_ADL,RPT242,"Srisim K et al., 2025",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Sports,RPT004,"Kim KM et al., 2021",Low risk,Some concerns,Some concerns,Some concerns,Low risk,Some concerns,High risk
+Sports,RPT005,"Cain MS et al., 2020",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+Sports,RPT009,"Wright CJ et al., 2017",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,Some concerns
+Sports,RPT023,"Anguish B et al., 2018",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Sports,RPT026,"McKeon PO et al., 2008",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+Sports,RPT032,"Hall EA et al., 2018",Some concerns,High risk,Low risk,Low risk,Low risk,High risk,High risk
+Sports,RPT036,"Ardakani MK et al., 2019",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+Sports,RPT040,"McKeon PO et al., 2016",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+Sports,RPT042,"Seyedi M et al., 2021",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+Sports,RPT043,"Smith BI et al., 2018",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,High risk
+Sports,RPT044,"Thanasootr KO et al., 2022",Low risk,Low risk,High risk,Low risk,Low risk,High risk,High risk
+Sports,RPT072,"Kim KM et al., 2022",Low risk,Some concerns,Low risk,Low risk,Low risk,Some concerns,High risk
+Sports,RPT076,"Yesilkir S et al., 2025",Low risk,Low risk,Some concerns,Low risk,Low risk,Some concerns,Some concerns
+Sports,RPT141,"Suttmiller AMB et al., 2025",Some concerns,Low risk,Some concerns,Low risk,Low risk,Some concerns,High risk
+Sports,RPT169,"Pooryamanesh L et al., 2025",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,High risk
+Sports,RPT172,"Mohammadi Nia Samakosh H et al., 2022",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,High risk
+Sports,RPT184,"Anguish BM, 2010",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,High risk
+Sports,RPT199,"Turhan B et al., 2025",Low risk,Low risk,High risk,Low risk,Low risk,High risk,High risk
+Sports,RPT242,"Srisim K et al., 2025",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Anterior,RPT002,"Chang WD et al., 2021",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Anterior,RPT004,"Kim KM et al., 2021",Low risk,Some concerns,Some concerns,Low risk,Low risk,Some concerns,Some concerns
+Anterior,RPT005,"Cain MS et al., 2020",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Anterior,RPT006,"Cruz-Diaz D et al., 2015",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,Some concerns
+Anterior,RPT007,"Sierra-Guzmán R et al., 2018",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,Some concerns
+Anterior,RPT008,"Shih YF et al., 2018",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Anterior,RPT023,"Anguish B et al., 2018",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Anterior,RPT026,"McKeon PO et al., 2008",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Anterior,RPT030,"Cloak R et al., 2013",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Anterior,RPT043,"Smith BI et al., 2018",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Anterior,RPT072,"Kim KM et al., 2022",Low risk,Some concerns,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Anterior,RPT076,"Yesilkir S et al., 2025",Low risk,Low risk,Some concerns,Low risk,Low risk,Some concerns,Some concerns
+Anterior,RPT086,"Kruatiwa N, Yimlamai T, 2021",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Anterior,RPT128,"Lapanantasin S et al., 2022",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Anterior,RPT141,"Suttmiller AMB et al., 2025",Some concerns,Low risk,Some concerns,Some concerns,Low risk,Some concerns,Some concerns
+Anterior,RPT151,"Surakhamhaeng A et al., 2020",Low risk,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Anterior,RPT162,"Yekdaneh A et al., 2024",Some concerns,Some concerns,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Anterior,RPT167,"Lao Y et al., 2025",Some concerns,Low risk,High risk,Low risk,Low risk,High risk,High risk
+Anterior,RPT171,"Pengsri K et al., 2024",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Anterior,RPT172,"Mohammadi Nia Samakosh H et al., 2022",Low risk,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+Anterior,RPT184,"Anguish BM, 2010",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Anterior,RPT190,"Liao L et al., 2025",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Anterior,RPT199,"Turhan B et al., 2025",Low risk,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Anterior,RPT213,"Xu J et al., 2025",Some concerns,Low risk,High risk,Low risk,Low risk,High risk,High risk
+Anterior,RPT233,"Katsuya M et al., 2026",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Anterior,RPT284,"Takindi et al., 2024",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Anterior,RPT289,"Kaewmanee et al., 2026",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,Some concerns
+Anterior,RPT299,"Vásquez-Orellana et al., 2020",Some concerns,Some concerns,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT001,"Cain MS et al., 2017",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posteromedial,RPT002,"Chang WD et al., 2021",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posteromedial,RPT004,"Kim KM et al., 2021",Low risk,Some concerns,Some concerns,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT005,"Cain MS et al., 2020",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT006,"Cruz-Diaz D et al., 2015",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,Some concerns
+Posteromedial,RPT007,"Sierra-Guzmán R et al., 2018",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,Some concerns
+Posteromedial,RPT008,"Shih YF et al., 2018",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posteromedial,RPT009,"Wright CJ et al., 2017",Low risk,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posteromedial,RPT010,"Linens SW et al., 2016",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posteromedial,RPT023,"Anguish B et al., 2018",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posteromedial,RPT026,"McKeon PO et al., 2008",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posteromedial,RPT030,"Cloak R et al., 2013",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT033,"Melam et al., 2018",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT043,"Smith BI et al., 2018",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT044,"Thanasootr KO et al., 2022",Low risk,Low risk,High risk,Low risk,Low risk,High risk,High risk
+Posteromedial,RPT072,"Kim KM et al., 2022",Low risk,Some concerns,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT076,"Yesilkir S et al., 2025",Low risk,Low risk,Some concerns,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT086,"Kruatiwa N, Yimlamai T, 2021",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT128,"Lapanantasin S et al., 2022",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT141,"Suttmiller AMB et al., 2025",Some concerns,Low risk,Some concerns,Some concerns,Low risk,Some concerns,Some concerns
+Posteromedial,RPT151,"Surakhamhaeng A et al., 2020",Low risk,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posteromedial,RPT162,"Yekdaneh A et al., 2024",Some concerns,Some concerns,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT167,"Lao Y et al., 2025",Some concerns,Low risk,High risk,Low risk,Low risk,High risk,High risk
+Posteromedial,RPT171,"Pengsri K et al., 2024",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT172,"Mohammadi Nia Samakosh H et al., 2022",Low risk,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+Posteromedial,RPT184,"Anguish BM, 2010",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT190,"Liao L et al., 2025",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT199,"Turhan B et al., 2025",Low risk,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posteromedial,RPT213,"Xu J et al., 2025",Some concerns,Low risk,High risk,Low risk,Low risk,High risk,High risk
+Posteromedial,RPT233,"Katsuya M et al., 2026",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT284,"Takindi et al., 2024",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posteromedial,RPT289,"Kaewmanee et al., 2026",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,Some concerns
+Posteromedial,RPT299,"Vásquez-Orellana et al., 2020",Some concerns,Some concerns,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posterolateral,RPT002,"Chang WD et al., 2021",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posterolateral,RPT004,"Kim KM et al., 2021",Low risk,Some concerns,Some concerns,Low risk,Low risk,Some concerns,Some concerns
+Posterolateral,RPT005,"Cain MS et al., 2020",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posterolateral,RPT006,"Cruz-Diaz D et al., 2015",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,Some concerns
+Posterolateral,RPT007,"Sierra-Guzmán R et al., 2018",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,Some concerns
+Posterolateral,RPT008,"Shih YF et al., 2018",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posterolateral,RPT023,"Anguish B et al., 2018",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posterolateral,RPT026,"McKeon PO et al., 2008",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posterolateral,RPT030,"Cloak R et al., 2013",Some concerns,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posterolateral,RPT043,"Smith BI et al., 2018",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posterolateral,RPT072,"Kim KM et al., 2022",Low risk,Some concerns,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posterolateral,RPT076,"Yesilkir S et al., 2025",Low risk,Low risk,Some concerns,Low risk,Low risk,Some concerns,Some concerns
+Posterolateral,RPT086,"Kruatiwa N, Yimlamai T, 2021",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posterolateral,RPT128,"Lapanantasin S et al., 2022",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posterolateral,RPT141,"Suttmiller AMB et al., 2025",Some concerns,Low risk,Some concerns,Some concerns,Low risk,Some concerns,Some concerns
+Posterolateral,RPT151,"Surakhamhaeng A et al., 2020",Low risk,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posterolateral,RPT162,"Yekdaneh A et al., 2024",Some concerns,Some concerns,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posterolateral,RPT167,"Lao Y et al., 2025",Some concerns,Low risk,High risk,Low risk,Low risk,High risk,High risk
+Posterolateral,RPT171,"Pengsri K et al., 2024",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posterolateral,RPT172,"Mohammadi Nia Samakosh H et al., 2022",Low risk,Low risk,Low risk,Some concerns,Low risk,Some concerns,High risk
+Posterolateral,RPT184,"Anguish BM, 2010",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posterolateral,RPT190,"Liao L et al., 2025",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posterolateral,RPT199,"Turhan B et al., 2025",Low risk,Low risk,Low risk,Some concerns,Low risk,Some concerns,Some concerns
+Posterolateral,RPT213,"Xu J et al., 2025",Some concerns,Low risk,High risk,Low risk,Low risk,High risk,High risk
+Posterolateral,RPT233,"Katsuya M et al., 2026",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posterolateral,RPT284,"Takindi et al., 2024",Some concerns,Low risk,Low risk,Low risk,Low risk,Some concerns,Some concerns
+Posterolateral,RPT289,"Kaewmanee et al., 2026",Low risk,Low risk,Low risk,Low risk,Low risk,Low risk,Some concerns
+Posterolateral,RPT299,"Vásquez-Orellana et al., 2020",Some concerns,Some concerns,Low risk,Low risk,Low risk,Some concerns,Some concerns

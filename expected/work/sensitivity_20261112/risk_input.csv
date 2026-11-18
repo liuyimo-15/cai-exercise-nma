@@ -1,0 +1,141 @@
+"outcome","id","author","pdf_label","Overall","Original_Overall","arms","n"
+"CAIT","RPT004","Kim KM et al., 2021","Kim (2021)","Some concerns","High risk",2,49
+"CAIT","RPT005","Cain MS et al., 2020","Cain (2020)","Some concerns","High risk",4,43
+"CAIT","RPT006","Cruz-Diaz D et al., 2015","Cruz-Diaz (2015)","Some concerns","High risk",2,70
+"CAIT","RPT008","Shih YF et al., 2018","Shih (2018)","Some concerns","Some concerns",2,30
+"CAIT","RPT009","Wright CJ et al., 2017","Wright (2017)","Low risk","Some concerns",2,40
+"CAIT","RPT024","Lee E et al., 2019","Lee (2019)","Some concerns","Some concerns",2,30
+"CAIT","RPT031","Kim KJ et al., 2014","Kim (2014)","Some concerns","High risk",3,30
+"CAIT","RPT036","Ardakani MK et al., 2019","Ardakani (2019)","Some concerns","High risk",2,28
+"CAIT","RPT044","Thanasootr KO et al., 2022","Thanasootr (2022)","High risk","High risk",2,18
+"CAIT","RPT048","Park HS et al., 2024","Park (2024)","Some concerns","High risk",3,51
+"CAIT","RPT072","Kim KM et al., 2022","Kim (2022)","Some concerns","High risk",3,67
+"CAIT","RPT076","Yesilkir S et al., 2025","Yesilkir (2025)","Some concerns","Some concerns",3,36
+"CAIT","RPT091","Parlakidis K et al., 2024","Parlakidis (2024)","Some concerns","High risk",2,18
+"CAIT","RPT128","Lapanantasin S et al., 2022","Lapanantasin (2022)","Some concerns","Some concerns",3,32
+"CAIT","RPT167","Lao Y et al., 2025","Lao (2025)","High risk","High risk",2,31
+"CAIT","RPT169","Pooryamanesh L et al., 2025","Pooryamanesh (2025)","Some concerns","High risk",2,28
+"CAIT","RPT171","Pengsri K et al., 2024","Pengsri (2024)","Some concerns","Some concerns",2,32
+"CAIT","RPT190","Liao L et al., 2025","Liao (2025)","Some concerns","High risk",2,14
+"CAIT","RPT212","Shinde VV et al., 2026","Shinde (2026)","Some concerns","Some concerns",2,58
+"CAIT","RPT213","Xu J et al., 2025","Xu (2025)","High risk","High risk",2,45
+"CAIT","RPT232","Purzolfi M et al., 2026","Purzolfi (2026)","Low risk","High risk",2,38
+"CAIT","RPT233","Katsuya M et al., 2026","Katsuya (2026)","Some concerns","High risk",2,24
+"CAIT","RPT283","Ayeram et al., 2026","Ayeram (2026)","Low risk","Some concerns",2,40
+"CAIT","RPT315","Rajkumar R et al., 2024","Rajkumar (2024)","Some concerns","Some concerns",2,30
+"FAAM_ADL","RPT004","Kim KM et al., 2021","Kim (2021)","Some concerns","High risk",2,49
+"FAAM_ADL","RPT005","Cain MS et al., 2020","Cain (2020)","Some concerns","High risk",4,43
+"FAAM_ADL","RPT009","Wright CJ et al., 2017","Wright (2017)","Low risk","Some concerns",2,40
+"FAAM_ADL","RPT023","Anguish B et al., 2018","Anguish (2018)","Some concerns","Some concerns",2,18
+"FAAM_ADL","RPT032","Hall EA et al., 2018","Hall (2018)","High risk","High risk",3,39
+"FAAM_ADL","RPT036","Ardakani MK et al., 2019","Ardakani (2019)","Some concerns","High risk",2,28
+"FAAM_ADL","RPT040","McKeon PO et al., 2016","McKeon (2016)","Some concerns","High risk",2,40
+"FAAM_ADL","RPT042","Seyedi M et al., 2021","Seyedi (2021)","Some concerns","High risk",2,30
+"FAAM_ADL","RPT043","Smith BI et al., 2018","Smith (2018)","Some concerns","High risk",2,26
+"FAAM_ADL","RPT044","Thanasootr KO et al., 2022","Thanasootr (2022)","High risk","High risk",2,18
+"FAAM_ADL","RPT072","Kim KM et al., 2022","Kim (2022)","Some concerns","High risk",3,67
+"FAAM_ADL","RPT076","Yesilkir S et al., 2025","Yesilkir (2025)","Some concerns","Some concerns",3,36
+"FAAM_ADL","RPT141","Suttmiller AMB et al., 2025","Suttmiller (2025)","Some concerns","High risk",3,45
+"FAAM_ADL","RPT169","Pooryamanesh L et al., 2025","Pooryamanesh (2025)","Some concerns","High risk",2,28
+"FAAM_ADL","RPT172","Mohammadi Nia Samakosh H et al., 2022","Mohammadi Nia Samakosh (2022)","Low risk","High risk",3,36
+"FAAM_ADL","RPT184","Anguish BM, 2010","Anguish (2010)","Some concerns","High risk",2,17
+"FAAM_ADL","RPT199","Turhan B et al., 2025","Turhan (2025)","High risk","High risk",2,40
+"FAAM_ADL","RPT242","Srisim K et al., 2025","Srisim (2025)","Some concerns","Some concerns",2,34
+"Sports","RPT004","Kim KM et al., 2021","Kim (2021)","Some concerns","High risk",2,49
+"Sports","RPT005","Cain MS et al., 2020","Cain (2020)","Some concerns","High risk",4,43
+"Sports","RPT009","Wright CJ et al., 2017","Wright (2017)","Low risk","Some concerns",2,40
+"Sports","RPT023","Anguish B et al., 2018","Anguish (2018)","Some concerns","Some concerns",2,18
+"Sports","RPT026","McKeon PO et al., 2008","McKeon (2008)","Some concerns","High risk",2,31
+"Sports","RPT032","Hall EA et al., 2018","Hall (2018)","High risk","High risk",3,39
+"Sports","RPT036","Ardakani MK et al., 2019","Ardakani (2019)","Some concerns","High risk",2,28
+"Sports","RPT040","McKeon PO et al., 2016","McKeon (2016)","Some concerns","High risk",2,40
+"Sports","RPT042","Seyedi M et al., 2021","Seyedi (2021)","Some concerns","High risk",2,30
+"Sports","RPT043","Smith BI et al., 2018","Smith (2018)","Some concerns","High risk",2,26
+"Sports","RPT044","Thanasootr KO et al., 2022","Thanasootr (2022)","High risk","High risk",2,18
+"Sports","RPT072","Kim KM et al., 2022","Kim (2022)","Some concerns","High risk",3,67
+"Sports","RPT076","Yesilkir S et al., 2025","Yesilkir (2025)","Some concerns","Some concerns",3,36
+"Sports","RPT141","Suttmiller AMB et al., 2025","Suttmiller (2025)","Some concerns","High risk",3,45
+"Sports","RPT169","Pooryamanesh L et al., 2025","Pooryamanesh (2025)","Some concerns","High risk",2,28
+"Sports","RPT172","Mohammadi Nia Samakosh H et al., 2022","Mohammadi Nia Samakosh (2022)","Low risk","High risk",3,36
+"Sports","RPT184","Anguish BM, 2010","Anguish (2010)","Some concerns","High risk",2,17
+"Sports","RPT199","Turhan B et al., 2025","Turhan (2025)","High risk","High risk",2,40
+"Sports","RPT242","Srisim K et al., 2025","Srisim (2025)","Some concerns","Some concerns",2,34
+"Anterior","RPT002","Chang WD et al., 2021","Chang (2021)","Some concerns","Some concerns",2,42
+"Anterior","RPT004","Kim KM et al., 2021","Kim (2021)","Some concerns","Some concerns",2,49
+"Anterior","RPT005","Cain MS et al., 2020","Cain (2020)","Some concerns","Some concerns",4,43
+"Anterior","RPT006","Cruz-Diaz D et al., 2015","Cruz-Diaz (2015)","Low risk","Some concerns",2,70
+"Anterior","RPT007","Sierra-Guzmán R et al., 2018","Sierra-Guzmán (2018)","Low risk","Some concerns",2,34
+"Anterior","RPT023","Anguish B et al., 2018","Anguish (2018)","Some concerns","Some concerns",2,18
+"Anterior","RPT026","McKeon PO et al., 2008","McKeon (2008)","Some concerns","Some concerns",2,31
+"Anterior","RPT030","Cloak R et al., 2013","Cloak (2013)","Some concerns","Some concerns",2,22
+"Anterior","RPT043","Smith BI et al., 2018","Smith (2018)","Some concerns","Some concerns",2,26
+"Anterior","RPT072","Kim KM et al., 2022","Kim (2022)","Some concerns","Some concerns",3,67
+"Anterior","RPT076","Yesilkir S et al., 2025","Yesilkir (2025)","Some concerns","Some concerns",3,36
+"Anterior","RPT086","Kruatiwa N, Yimlamai T, 2021","Kruatiwa (2021)","Some concerns","Some concerns",3,36
+"Anterior","RPT092_306","Combined report ID (Reyes / Foreman 2024)","Reyes / Foreman (2024)","Not present in provided RoB2 PDF",,3,45
+"Anterior","RPT141","Suttmiller AMB et al., 2025","Suttmiller (2025)","Some concerns","Some concerns",3,45
+"Anterior","RPT151","Surakhamhaeng A et al., 2020","Surakhamhaeng (2020)","Some concerns","Some concerns",2,20
+"Anterior","RPT162","Yekdaneh A et al., 2024","Yekdaneh (2024)","Some concerns","Some concerns",2,29
+"Anterior","RPT167","Lao Y et al., 2025","Lao (2025)","High risk","High risk",2,31
+"Anterior","RPT171","Pengsri K et al., 2024","Pengsri (2024)","Some concerns","Some concerns",2,32
+"Anterior","RPT172","Mohammadi Nia Samakosh H et al., 2022","Mohammadi Nia Samakosh (2022)","Some concerns","High risk",3,36
+"Anterior","RPT184","Anguish BM, 2010","Anguish (2010)","Some concerns","Some concerns",2,17
+"Anterior","RPT190","Liao L et al., 2025","Liao (2025)","Some concerns","Some concerns",2,14
+"Anterior","RPT199","Turhan B et al., 2025","Turhan (2025)","Some concerns","Some concerns",2,40
+"Anterior","RPT213","Xu J et al., 2025","Xu (2025)","High risk","High risk",2,45
+"Anterior","RPT233","Katsuya M et al., 2026","Katsuya (2026)","Some concerns","Some concerns",2,24
+"Anterior","RPT299","Vásquez-Orellana et al., 2020","Vásquez-Orellana (2020)","Some concerns","Some concerns",2,25
+"Posteromedial","RPT001","Cain MS et al., 2017","Cain (2017)","Some concerns","Some concerns",2,22
+"Posteromedial","RPT002","Chang WD et al., 2021","Chang (2021)","Some concerns","Some concerns",2,42
+"Posteromedial","RPT004","Kim KM et al., 2021","Kim (2021)","Some concerns","Some concerns",2,49
+"Posteromedial","RPT005","Cain MS et al., 2020","Cain (2020)","Some concerns","Some concerns",4,43
+"Posteromedial","RPT006","Cruz-Diaz D et al., 2015","Cruz-Diaz (2015)","Low risk","Some concerns",2,70
+"Posteromedial","RPT007","Sierra-Guzmán R et al., 2018","Sierra-Guzmán (2018)","Low risk","Some concerns",2,34
+"Posteromedial","RPT009","Wright CJ et al., 2017","Wright (2017)","Some concerns","Some concerns",2,40
+"Posteromedial","RPT010","Linens SW et al., 2016","Linens (2016)","Some concerns","Some concerns",2,34
+"Posteromedial","RPT023","Anguish B et al., 2018","Anguish (2018)","Some concerns","Some concerns",2,18
+"Posteromedial","RPT026","McKeon PO et al., 2008","McKeon (2008)","Some concerns","Some concerns",2,31
+"Posteromedial","RPT033","Melam et al., 2018","Melam (2018)","Some concerns","Some concerns",2,30
+"Posteromedial","RPT043","Smith BI et al., 2018","Smith (2018)","Some concerns","Some concerns",2,26
+"Posteromedial","RPT044","Thanasootr KO et al., 2022","Thanasootr (2022)","High risk","High risk",2,18
+"Posteromedial","RPT072","Kim KM et al., 2022","Kim (2022)","Some concerns","Some concerns",3,67
+"Posteromedial","RPT076","Yesilkir S et al., 2025","Yesilkir (2025)","Some concerns","Some concerns",3,36
+"Posteromedial","RPT086","Kruatiwa N, Yimlamai T, 2021","Kruatiwa (2021)","Some concerns","Some concerns",3,36
+"Posteromedial","RPT092_306","Combined report ID (Reyes / Foreman 2024)","Reyes / Foreman (2024)","Not present in provided RoB2 PDF",,3,45
+"Posteromedial","RPT141","Suttmiller AMB et al., 2025","Suttmiller (2025)","Some concerns","Some concerns",3,45
+"Posteromedial","RPT151","Surakhamhaeng A et al., 2020","Surakhamhaeng (2020)","Some concerns","Some concerns",2,20
+"Posteromedial","RPT162","Yekdaneh A et al., 2024","Yekdaneh (2024)","Some concerns","Some concerns",2,29
+"Posteromedial","RPT167","Lao Y et al., 2025","Lao (2025)","High risk","High risk",2,31
+"Posteromedial","RPT171","Pengsri K et al., 2024","Pengsri (2024)","Some concerns","Some concerns",2,32
+"Posteromedial","RPT172","Mohammadi Nia Samakosh H et al., 2022","Mohammadi Nia Samakosh (2022)","Some concerns","High risk",3,36
+"Posteromedial","RPT184","Anguish BM, 2010","Anguish (2010)","Some concerns","Some concerns",2,17
+"Posteromedial","RPT190","Liao L et al., 2025","Liao (2025)","Some concerns","Some concerns",2,14
+"Posteromedial","RPT199","Turhan B et al., 2025","Turhan (2025)","Some concerns","Some concerns",2,40
+"Posteromedial","RPT213","Xu J et al., 2025","Xu (2025)","High risk","High risk",2,45
+"Posteromedial","RPT233","Katsuya M et al., 2026","Katsuya (2026)","Some concerns","Some concerns",2,24
+"Posteromedial","RPT299","Vásquez-Orellana et al., 2020","Vásquez-Orellana (2020)","Some concerns","Some concerns",2,25
+"Posterolateral","RPT002","Chang WD et al., 2021","Chang (2021)","Some concerns","Some concerns",2,42
+"Posterolateral","RPT004","Kim KM et al., 2021","Kim (2021)","Some concerns","Some concerns",2,49
+"Posterolateral","RPT005","Cain MS et al., 2020","Cain (2020)","Some concerns","Some concerns",4,43
+"Posterolateral","RPT006","Cruz-Diaz D et al., 2015","Cruz-Diaz (2015)","Low risk","Some concerns",2,70
+"Posterolateral","RPT007","Sierra-Guzmán R et al., 2018","Sierra-Guzmán (2018)","Low risk","Some concerns",2,34
+"Posterolateral","RPT023","Anguish B et al., 2018","Anguish (2018)","Some concerns","Some concerns",2,18
+"Posterolateral","RPT026","McKeon PO et al., 2008","McKeon (2008)","Some concerns","Some concerns",2,31
+"Posterolateral","RPT030","Cloak R et al., 2013","Cloak (2013)","Some concerns","Some concerns",2,22
+"Posterolateral","RPT043","Smith BI et al., 2018","Smith (2018)","Some concerns","Some concerns",2,26
+"Posterolateral","RPT072","Kim KM et al., 2022","Kim (2022)","Some concerns","Some concerns",3,67
+"Posterolateral","RPT076","Yesilkir S et al., 2025","Yesilkir (2025)","Some concerns","Some concerns",3,36
+"Posterolateral","RPT086","Kruatiwa N, Yimlamai T, 2021","Kruatiwa (2021)","Some concerns","Some concerns",3,36
+"Posterolateral","RPT092_306","Combined report ID (Reyes / Foreman 2024)","Reyes / Foreman (2024)","Not present in provided RoB2 PDF",,3,45
+"Posterolateral","RPT141","Suttmiller AMB et al., 2025","Suttmiller (2025)","Some concerns","Some concerns",3,45
+"Posterolateral","RPT151","Surakhamhaeng A et al., 2020","Surakhamhaeng (2020)","Some concerns","Some concerns",2,20
+"Posterolateral","RPT162","Yekdaneh A et al., 2024","Yekdaneh (2024)","Some concerns","Some concerns",2,29
+"Posterolateral","RPT167","Lao Y et al., 2025","Lao (2025)","High risk","High risk",2,31
+"Posterolateral","RPT171","Pengsri K et al., 2024","Pengsri (2024)","Some concerns","Some concerns",2,32
+"Posterolateral","RPT172","Mohammadi Nia Samakosh H et al., 2022","Mohammadi Nia Samakosh (2022)","Some concerns","High risk",3,36
+"Posterolateral","RPT184","Anguish BM, 2010","Anguish (2010)","Some concerns","Some concerns",2,17
+"Posterolateral","RPT190","Liao L et al., 2025","Liao (2025)","Some concerns","Some concerns",2,14
+"Posterolateral","RPT199","Turhan B et al., 2025","Turhan (2025)","Some concerns","Some concerns",2,40
+"Posterolateral","RPT213","Xu J et al., 2025","Xu (2025)","High risk","High risk",2,45
+"Posterolateral","RPT233","Katsuya M et al., 2026","Katsuya (2026)","Some concerns","Some concerns",2,24
+"Posterolateral","RPT299","Vásquez-Orellana et al., 2020","Vásquez-Orellana (2020)","Some concerns","Some concerns",2,25

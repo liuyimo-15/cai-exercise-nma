@@ -1,0 +1,77 @@
+Package,Version,Priority,Source
+CompQuadForm,1.4.4,NA,CRAN
+MASS,7.3-60.2,recommended,CRAN
+Matrix,1.7-0,recommended,CRAN
+R6,2.6.1,NA,CRAN
+RColorBrewer,1.1-3,NA,CRAN
+Rcpp,1.1.1,NA,CRAN
+RcppEigen,0.3.4.0.2,NA,CRAN
+Rdpack,2.6.6,NA,CRAN
+S7,0.2.1,NA,CRAN
+abind,1.4-8,NA,CRAN
+bit,4.6.0,NA,CRAN
+bit64,4.6.0-1,NA,CRAN
+boot,1.3-30,recommended,CRAN
+cli,3.6.5,NA,CRAN
+clipr,0.8.0,NA,CRAN
+colorspace,2.1-2,NA,CRAN
+compiler,4.4.0,base,R distribution
+cpp11,0.5.3,NA,CRAN
+crayon,1.5.3,NA,CRAN
+digest,0.6.39,NA,CRAN
+dplyr,1.2.0,NA,CRAN
+farver,2.1.2,NA,CRAN
+generics,0.1.4,NA,CRAN
+ggplot2,4.0.2,NA,CRAN
+glue,1.8.0,NA,CRAN
+grDevices,4.4.0,base,R distribution
+graphics,4.4.0,base,R distribution
+grid,4.4.0,base,R distribution
+gtable,0.3.6,NA,CRAN
+hms,1.1.4,NA,CRAN
+igraph,2.2.2,NA,CRAN
+isoband,0.3.0,NA,CRAN
+labeling,0.4.3,NA,CRAN
+lattice,0.22-6,recommended,CRAN
+lifecycle,1.0.5,NA,CRAN
+lme4,2.0-1,NA,CRAN
+magic,1.6-1,NA,CRAN
+magrittr,2.0.4,NA,CRAN
+mathjaxr,2.0-0,NA,CRAN
+meta,8.2-1,NA,CRAN
+metadat,1.4-0,NA,CRAN
+metafor,4.8-0,NA,CRAN
+methods,4.4.0,base,R distribution
+minqa,1.2.8,NA,CRAN
+mvtnorm,1.3-6,NA,CRAN
+netmeta,3.3-1,NA,CRAN
+nlme,3.1-164,recommended,CRAN
+nloptr,2.2.1,NA,CRAN
+numDeriv,2016.8-1.1,NA,CRAN
+parallel,4.4.0,base,R distribution
+pbapply,1.7-4,NA,CRAN
+pillar,1.11.1,NA,CRAN
+pkgconfig,2.0.3,NA,CRAN
+prettyunits,1.2.0,NA,CRAN
+progress,1.2.3,NA,CRAN
+purrr,1.2.1,NA,CRAN
+rbibutils,2.4.1,NA,CRAN
+readr,2.2.0,NA,CRAN
+reformulas,0.4.4,NA,CRAN
+rlang,1.1.7,NA,CRAN
+scales,1.4.0,NA,CRAN
+splines,4.4.0,base,R distribution
+stats,4.4.0,base,R distribution
+stringi,1.8.7,NA,CRAN
+stringr,1.6.0,NA,CRAN
+tibble,3.3.1,NA,CRAN
+tidyselect,1.2.1,NA,CRAN
+tools,4.4.0,base,R distribution
+tzdb,0.5.0,NA,CRAN
+utf8,1.2.6,NA,CRAN
+utils,4.4.0,base,R distribution
+vctrs,0.7.2,NA,CRAN
+viridisLite,0.4.3,NA,CRAN
+vroom,1.7.0,NA,CRAN
+withr,3.0.2,NA,CRAN
+xml2,1.5.2,NA,CRAN

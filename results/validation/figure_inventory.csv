@@ -1,0 +1,16 @@
+file,pages,bytes,has_text
+results/figures/main/primary_NMA_CNMA_networks_rankings.pdf,4,27013,True
+results/figures/meta_regression/meta_regression_core_forests_and_curves.pdf,4,43963,True
+results/figures/sensitivity/Figures/Figure_1_Exclude_high_effects.pdf,1,11648,True
+results/figures/sensitivity/Figures/Figure_2_Exclude_high_rankings.pdf,1,11174,True
+results/figures/sensitivity/Figures/Figure_3_LOO_effect_ranges.pdf,1,69251,True
+results/figures/sensitivity/Figures/Figure_4_CNMA_Exclude_high.pdf,1,11146,True
+results/figures/sensitivity/Figures/Figure_S01_CAIT_LOO_heatmap.pdf,1,9411,True
+results/figures/sensitivity/Figures/Figure_S02_FAAM_ADL_LOO_heatmap.pdf,1,7448,True
+results/figures/sensitivity/Figures/Figure_S03_Sports_LOO_heatmap.pdf,1,7571,True
+results/figures/sensitivity/Figures/Figure_S04_Anterior_LOO_heatmap.pdf,1,8754,True
+results/figures/sensitivity/Figures/Figure_S05_Posteromedial_LOO_heatmap.pdf,1,9395,True
+results/figures/sensitivity/Figures/Figure_S06_Posterolateral_LOO_heatmap.pdf,1,8731,True
+results/figures/sensitivity/Figures/Supplement_CNMA_LOO_forest_43pages.pdf,43,172052,True
+results/figures/sensitivity/Figures/Supplement_NMA_LOO_forest_48pages.pdf,48,187490,True
+results/figures/subgroups/subgroup_forests_clean.pdf,4,20611,True

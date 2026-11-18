@@ -1,0 +1,14 @@
+.DS_Store
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rlibrary/
+.bootstrap/
+renv/library/
+renv/staging/
+__pycache__/
+work/**/*.rds
+work/**/*.png
+work/**/diagnostics/
+results/logs/

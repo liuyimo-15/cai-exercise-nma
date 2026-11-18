@@ -1,0 +1,12 @@
+check,status
+workbook_to_raw_CSV,passed
+arm_input_agreement,passed
+full_local_R_pipeline,passed
+clean_relocated_pipeline,passed
+frozen_numeric_tables,27 passed; 127656 numeric cells
+optional_conditional_grade,219 comparison ratings match
+vector_figure_review,15 PDFs / 113 pages reviewed
+fresh_dependency_restore,not tested
+Windows_Linux_execution,not tested
+GitHub_Actions_execution,workflow supplied; not yet run
+original_R050_source_recovered,no; reconstructed code labelled

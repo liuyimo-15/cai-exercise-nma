@@ -1,0 +1,3 @@
+"kind","coefficients","max_display_error","tolerance","passed"
+"NMA",48,0.00499307846230601,0.00501,TRUE
+"CNMA",43,0.00495271119907015,0.00501,TRUE

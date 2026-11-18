@@ -1,0 +1,10 @@
+# Run once from the repository root. Downloads pinned CRAN dependencies.
+options(repos = c(CRAN = "https://cloud.r-project.org"), timeout = 1200)
+if (getRversion() < "4.4.0") stop("R >= 4.4.0 required; R 4.4.0 is the recorded analysis version.")
+dir.create(".bootstrap", showWarnings = FALSE)
+dir.create(".Rlibrary", showWarnings = FALSE)
+.libPaths(c(normalizePath(".bootstrap"), .libPaths()))
+if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv", lib = ".bootstrap")
+renv::consent(provided = TRUE)
+renv::restore(project = getwd(), lockfile = "renv.lock", library = normalizePath(".Rlibrary"), prompt = FALSE)
+cat("Dependencies restored. Next: Rscript run_all.R\n")

@@ -1,0 +1,7 @@
+outcome,source_rows,numeric_cells,max_absolute_difference,passed
+CAIT,57,171,0.0,True
+FAAM_ADL,43,129,0.0,True
+Sports,45,135,0.0,True
+Anterior,67,201,0.0,True
+Posteromedial,77,231,0.0,True
+Posterolateral,67,201,0.0,True
